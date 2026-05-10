@@ -544,8 +544,8 @@ lib.properties = {
 	color: "#FFFFCC",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Bitmap11.png?1778352261807", id:"Bitmap11"},
-		{src:"images/Index_atlas_1.png?1778352261715", id:"Index_atlas_1"}
+		{src:"images/Bitmap11.png?1778378897413", id:"Bitmap11"},
+		{src:"images/Index_atlas_1.png?1778378897327", id:"Index_atlas_1"}
 	],
 	preloads: []
 };
